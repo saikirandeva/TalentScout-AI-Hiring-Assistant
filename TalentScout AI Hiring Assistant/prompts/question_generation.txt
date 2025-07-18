@@ -1,0 +1,1 @@
+Given the candidate's tech stack, generate 3-5 relevant technical questions for each technology listed. Questions should assess practical knowledge and problem-solving skills. 
